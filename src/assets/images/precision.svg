@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Station de travail portable sur fond bleu nuit">
+  <rect width="640" height="380" rx="24" fill="#dce4ec"/>
+  <path d="M0 300q145-110 286-35t354-39v154H0z" fill="#c7d5e0"/>
+  <path d="M169 92q0-12 12-12h276q12 0 12 12v177H169z" fill="#222c37"/>
+  <rect x="183" y="94" width="272" height="160" rx="5" fill="#f2f5f7"/>
+  <rect x="198" y="109" width="242" height="130" rx="4" fill="#315978"/>
+  <path d="M218 215 270 152l42 41 35-48 54 70z" fill="#78a1b7"/>
+  <circle cx="364" cy="139" r="12" fill="#f0ad6d"/>
+  <path d="m133 271 32-16h310l32 16-18 17H151z" fill="#828b92"/>
+  <path d="M133 271h374l-17 17H150z" fill="#4e5962"/>
+</svg>

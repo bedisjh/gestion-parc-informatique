@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Ordinateur portable gris sur fond vert sauge">
+  <rect width="640" height="380" rx="24" fill="#dcebe3"/>
+  <circle cx="510" cy="80" r="44" fill="#c2dfd0"/>
+  <path d="M169 92q0-12 12-12h276q12 0 12 12v177H169z" fill="#243b38"/>
+  <rect x="183" y="94" width="272" height="160" rx="5" fill="#f2f5ef"/>
+  <rect x="205" y="117" width="229" height="116" rx="4" fill="#6e9a87"/>
+  <path d="M205 203h229v30H205z" fill="#315d50"/>
+  <circle cx="320" cy="174" r="28" fill="#dcebe3"/>
+  <path d="m300 174 14 14 28-30" fill="none" stroke="#315d50" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m133 271 32-16h310l32 16-18 17H151z" fill="#879b92"/>
+  <path d="M133 271h374l-17 17H150z" fill="#526b61"/>
+</svg>

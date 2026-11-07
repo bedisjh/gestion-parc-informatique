@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Ordinateur portable fin couleur graphite sur fond pêche">
+  <rect width="640" height="380" rx="24" fill="#f6e4da"/>
+  <circle cx="500" cy="84" r="50" fill="#f0d2c4"/>
+  <path d="M169 92q0-12 12-12h276q12 0 12 12v177H169z" fill="#34353d"/>
+  <rect x="183" y="94" width="272" height="160" rx="5" fill="#fff8f2"/>
+  <rect x="198" y="109" width="242" height="130" rx="4" fill="#dd8d70"/>
+  <path d="M198 205q65-78 121-20t121-43v97H198z" fill="#a95045"/>
+  <path d="M198 222q70-49 124-9t118-20v46H198z" fill="#f3bb91"/>
+  <path d="m133 271 32-16h310l32 16-18 17H151z" fill="#a3a0a0"/>
+  <path d="M133 271h374l-17 17H150z" fill="#65666a"/>
+</svg>
